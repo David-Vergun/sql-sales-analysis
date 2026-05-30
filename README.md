@@ -56,7 +56,6 @@ Enthält:
 - INNER JOIN
 - LEFT JOIN
 - Subqueries
-- CTE (WITH)
 - Window Functions
 
 ## Autor
